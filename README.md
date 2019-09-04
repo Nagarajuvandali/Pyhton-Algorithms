@@ -1,1 +1,1 @@
-# Pyhton-Algorithms
+# Python-Algorithms
